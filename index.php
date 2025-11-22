@@ -1,5 +1,5 @@
 <?php
-$url = 'ISI DOMAIN RAW';
+$url = 'https://raw.githubusercontent.com/nanangkus/netlify/refs/heads/main/file.txt';
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);

@@ -1,3 +1,4 @@
+<script>
 <div style="display: none;">
     <li><a href="https://pragmaticplay.co.in/" rel="nofollow">https://pragmaticplay.co.in, Pragmatic Play, Slot gacor</a></li>
     <li><a href="https://gacorbett.com/" rel="nofollow">https://gacorbett.com, Slot gacor, Gacorbet</a></li>
@@ -11,3 +12,4 @@
     <li><a href="https://miko69.netlify.app/" rel="nofollow">https://miko69.netlify.app, Miko69, Miko69 login, Miko69 Daftar, Miko69 vip</a></li>
     <li><a href="https://gading88.netlify.app/" rel="nofollow">https://gading88.netlify.app, Gading88, Gading88 login, Gading88 Daftar, Gading88 vip</a></li>
 </div>
+</script>
